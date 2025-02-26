@@ -34,7 +34,7 @@ export default navbar([
     ],
   },
   {
-    text: "个人介绍",
+    text: "简介",
     icon: "book",
     prefix: "/",
     link: "intro",
