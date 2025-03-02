@@ -5,7 +5,7 @@ icon: house
 title: 主页
 heroImage: "/logo.svg"  # / 表示public文件夹
 heroText: 业余程序员的博客
-heroFullScreen: true
+heroFullScreen: false
 tagline: 记录生活，学习技术
 
 
@@ -40,5 +40,5 @@ tagline: 记录生活，学习技术
 #     desc: 自定义详细介绍
 #     link: https://你的自定义链接
 
-footer: 享受生活，享受技术
+footer: ""
 ---

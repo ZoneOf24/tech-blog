@@ -1,6 +1,9 @@
 ---
-icon: circle-info
-cover: /assets/images/cover3.jpg
+# icon: circle-info
+# cover: /assets/images/cover3.jpg
+# article: false
+portfolio: true
+titles: 个人介绍
 ---
 
 # 介绍页

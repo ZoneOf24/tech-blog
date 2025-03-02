@@ -6,6 +6,8 @@ category:
   - 使用指南
 tag:
   - Markdown
+  
+article: false  
 ---
 
 VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻松生成文档或博客站点。
@@ -106,7 +108,7 @@ $$
 
 #### 组件
 
-```component VPCard
+```component
 title: Mr.Hope
 desc: Where there is light, there is hope
 logo: https://mister-hope.com/logo.svg
