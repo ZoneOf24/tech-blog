@@ -1,11 +1,19 @@
 ---
 # icon: circle-info
 # cover: /assets/images/cover3.jpg
-article: false
+
 home: true
 portfolio: true
-titles: 个人介绍
+title: 档案主页
+icon: house
+welcome: 👋 你好，我是
+name: Mr.L
 
+titles:
+  - FPGAer
+  - 做饭爱好者
+article: false
+footer: false
 ---
 
 # 介绍页
