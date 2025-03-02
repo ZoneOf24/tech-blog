@@ -1,6 +1,6 @@
 ---
 # 当前页面内容标题，默认为 Markdown 文件中的第一个 h1 标签内容。
-title: 生活小感慨
+title: 关于HelloWorld
 # 当前页面图标的 FontClass 或文件路径 (建议填写)
 icon: pen-to-square
 # 文章作者信息，作者名称，作者网站，作者邮箱
