@@ -32,6 +32,7 @@ export default hopeTheme({
   blog: {
     name: "Mr.L",
     description: "爱技术，爱生活",
+    
     intro: "/intro.html",
     medias: {
       Baidu: "https://baidu.com",
