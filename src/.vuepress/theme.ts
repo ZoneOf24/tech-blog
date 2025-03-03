@@ -37,8 +37,7 @@ export default hopeTheme({
       Baidu: "https://baidu.com",
       BiliBili: "https://www.bilibili.com/",
       Email: "mailto:icelyb24@163.com",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
+      MyBlog: {
         icon: "https://zoneof24.github.io/tech-blog/assets/icon/Blog_Logo.svg",
         link: "https://zoneof24.github.io/tech-blog/",
       },
