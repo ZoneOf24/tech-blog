@@ -12,7 +12,7 @@ export default hopeTheme({
   },
 
   // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-  logo: "/assets/icon/博客图标_Logo.svg",
+  logo: "/assets/icon/Blog_Logo.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -30,6 +30,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
+    name: "Mr.L",
     description: "爱技术，爱生活",
     intro: "/intro.html",
     medias: {
@@ -38,7 +39,8 @@ export default hopeTheme({
       Email: "mailto:icelyb24@163.com",
       VuePressThemeHope: {
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
+        icon: "https://zoneof24.github.io/tech-blog/assets/icon/Blog_Logo.svg",
+        link: "https://zoneof24.github.io/tech-blog/",
       },
     },
   },

@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: house
 title: 主页
-heroImage: "/assets/icon/博客图标_Logo.svg"  # / 表示public文件夹
+heroImage: "/assets/icon/Blog_Logo.svg"  # / 表示public文件夹
 bgImage: "/assets/images/Bk1.jpg"
 heroText: "生活微光，技术星芒"
 heroFullScreen: true

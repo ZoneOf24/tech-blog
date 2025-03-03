@@ -8,7 +8,7 @@ title: 档案主页
 icon: house
 welcome: 👋 你好，我是
 name: Mr.L
-avatar: /assets/icon/博客图标_Logo.svg
+avatar: /assets/icon/Blog_Logo.svg
 titles:
   - 爱技术
   - 爱生活
