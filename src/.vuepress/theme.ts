@@ -12,7 +12,7 @@ export default hopeTheme({
   },
 
   // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-  logo: "/assets/icon/chrome-192.png",
+  logo: "/assets/icon/博客图标_Logo.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -30,7 +30,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "业余程序员，记录生活，学习技术",
+    description: "爱技术，爱生活",
     intro: "/intro.html",
     medias: {
       Baidu: "https://baidu.com",

@@ -3,10 +3,11 @@ home: true
 layout: BlogHome
 icon: house
 title: 主页
-heroImage: "/logo.svg"  # / 表示public文件夹
-heroText: 业余程序员的博客
-heroFullScreen: false
-tagline: 记录生活，学习技术
+heroImage: "/assets/icon/博客图标_Logo.svg"  # / 表示public文件夹
+bgImage: "/assets/images/Bk1.jpg"
+heroText: "生活微光，技术星芒"
+heroFullScreen: true
+tagline: "爱技术，爱生活"
 
 
 # projects:
